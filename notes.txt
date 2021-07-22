@@ -20,4 +20,4 @@ git log
     " show commit history with author, date, and commit message"
 
 git checkout 
-    "switch from one branch to
+    "switch from one branch to another
